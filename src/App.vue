@@ -4,7 +4,7 @@
 
 <template>
   <div v-show="false">
-     {{ text = ['1'] }}
+     {{ text = ['1,2,3,4,5'] }}
   </div>
   <div>{{ text }}</div>
 
